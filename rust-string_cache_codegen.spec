@@ -5,8 +5,8 @@
 %global crate string_cache_codegen
 
 Name:           rust-%{crate}
-Version:        0.4.4
-Release:        2%{?dist}
+Version:        0.7.0
+Release:        1%{?dist}
 Summary:        Codegen library for string-cache, developed as part of the Servo project
 
 # Upstream license specification: MIT / Apache-2.0
